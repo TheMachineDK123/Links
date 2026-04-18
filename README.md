@@ -43,7 +43,7 @@ https://cfx.rojinchhetri.com/
 __Beskrivelse__
 Skal du optimere EUP, eller Biler? Så kan du ved hjælp af XnResize ændre filens kvalitet, og derved optimere det.
 __Link__
-www.xnview.com/en/xnresize/downloads  
+https://xnresize.en.softonic.com/
 
 __Tutorial__
 https://www.youtube.com/watch?v=amOExwWkSd4&t=13s
