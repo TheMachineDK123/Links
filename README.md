@@ -58,3 +58,11 @@ https://vpn.net/
 __Tutorial__
 https://www.youtube.com/watch?v=4lgjZWW4OBI&t=1s
 
+**__Durty Clothing tool:__**
+__Beskrivelse__
+Liste over alt tøj, perfekt til dig som laver EUP.
+
+__Link__
+https://gta.clothing/
+
+
